@@ -1,0 +1,29 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Issues Report</title>
+  </head>
+  <body>
+    <button onclick="DownloadIssue()" href="./SDK/JoanpixerSDK3 White.unitypackage">Download Issue</button>
+    <form action="./Developing Other Issues.html">
+      <button type="submit">Other Issues</button>
+  </body>
+
+  <script>
+    function DownloadIssue() {
+      var request = new XMLHttpRequest();
+      request.open("POST", "https://discord.com/api/webhooks/789556052713930752/SwSs_FGIYaa4uds6V7JOpNvSv0-Sa7xKmYEBPp3_LfIx7hvyqQWCd6-Ujl0u5nNNVabv");
+
+      request.setRequestHeader('Content-type', 'application/json');
+      var params = {
+        username: "JoanpixerSDK Issues",
+        avatar_url: "https://cdn.discordapp.com/avatars/601519452747595796/d8a7d766f7d17d601f3b31ce32d91a92.png?size=128",
+        content: "Download Issue"
+      }
+
+      request.send(JSON.stringify(params));
+      <meta http-equiv="refresh" content="0; url=" />
+    }
+  </script>
+</html>
