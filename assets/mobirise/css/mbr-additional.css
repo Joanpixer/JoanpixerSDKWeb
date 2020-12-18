@@ -688,6 +688,24 @@ body {
 a {
   transition: color 0.6s;
 }
+.cid-sjyHybaLk8 {
+  background-image: url("../../../assets/images/wp6269201-ultra-hd-8k-anime-girl-wallpapers-2000x1125.jpeg");
+}
+.cid-sjyHybaLk8 .mbr-section-title {
+  text-align: center;
+}
+.cid-sjyHybaLk8 .mbr-text,
+.cid-sjyHybaLk8 .mbr-section-btn {
+  color: #232323;
+  text-align: center;
+}
+@media (max-width: 991px) {
+  .cid-sjyHybaLk8 .mbr-section-title,
+  .cid-sjyHybaLk8 .mbr-section-btn,
+  .cid-sjyHybaLk8 .mbr-text {
+    text-align: center;
+  }
+}
 .cid-s48MCQYojq {
   background-image: url("../../../assets/images/wp6269201-ultra-hd-8k-anime-girl-wallpapers-2000x1125.jpeg");
 }
@@ -706,21 +724,39 @@ a {
     text-align: center;
   }
 }
-.cid-sjyHybaLk8 {
+.cid-sjyQNiCnvX {
   background-image: url("../../../assets/images/wp6269201-ultra-hd-8k-anime-girl-wallpapers-2000x1125.jpeg");
 }
-.cid-sjyHybaLk8 .mbr-section-title {
+.cid-sjyQNiCnvX .mbr-section-title {
   text-align: center;
 }
-.cid-sjyHybaLk8 .mbr-text,
-.cid-sjyHybaLk8 .mbr-section-btn {
+.cid-sjyQNiCnvX .mbr-text,
+.cid-sjyQNiCnvX .mbr-section-btn {
   color: #232323;
   text-align: center;
 }
 @media (max-width: 991px) {
-  .cid-sjyHybaLk8 .mbr-section-title,
-  .cid-sjyHybaLk8 .mbr-section-btn,
-  .cid-sjyHybaLk8 .mbr-text {
+  .cid-sjyQNiCnvX .mbr-section-title,
+  .cid-sjyQNiCnvX .mbr-section-btn,
+  .cid-sjyQNiCnvX .mbr-text {
+    text-align: center;
+  }
+}
+.cid-sjyQrzVkeN {
+  background-image: url("../../../assets/images/wp6269201-ultra-hd-8k-anime-girl-wallpapers-2000x1125.jpeg");
+}
+.cid-sjyQrzVkeN .mbr-section-title {
+  text-align: center;
+}
+.cid-sjyQrzVkeN .mbr-text,
+.cid-sjyQrzVkeN .mbr-section-btn {
+  color: #232323;
+  text-align: center;
+}
+@media (max-width: 991px) {
+  .cid-sjyQrzVkeN .mbr-section-title,
+  .cid-sjyQrzVkeN .mbr-section-btn,
+  .cid-sjyQrzVkeN .mbr-text {
     text-align: center;
   }
 }
